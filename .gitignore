@@ -1,0 +1,13 @@
+*~
+*-BAK
+*.BAK
+*.bak
+*.csv
+*.gz
+*.log
+config.ini
+debug.ini
+nonrepo
+test*
+
+
