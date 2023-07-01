@@ -1,5 +1,5 @@
-﻿# ds18b20
-rpi code to read ds18b20 sensor and save info to .csv and/or upload to other back ends
+# ds18b20
+rpi code to read ds18b20 sensor(s) and save info to .csv and/or upload to other backends
 
 It’s inteded to run on a raspberry pi
 You can connect several ds18b20 sensors in parallel and it will read all of them.
@@ -39,5 +39,3 @@ You may want to have some kind of more descriptive label than the sensor serial 
 
 ### mqtt/db/influx
 Info on how to connect to the different destinations. For details see the example config file or source code.
-
-
